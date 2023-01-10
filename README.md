@@ -4,7 +4,7 @@
   src="https://user-images.githubusercontent.com/79809661/211611599-ba163a0a-80a6-4744-8d49-bda9e00734da.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 - [Day_1: Convert the Temperature](https://github.com/tahmina-07/100-Days-of-Code-in-Python/blob/main/Convert_Temperature.py)
 
   <img
